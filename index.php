@@ -289,7 +289,8 @@
   closeTarget.addEventListener("touchstart", startDragTarget);
   closeTarget.addEventListener("touchmove", handleDragTarget);
   closeTarget.addEventListener("touchend", stopDragTarget);
-  
+
 </script>
+<!-- criado com auxilio de ia -->
 </body>
 </html>
